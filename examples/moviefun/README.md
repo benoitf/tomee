@@ -1,6 +1,6 @@
 Title: Movies Complete
 
-*Help us document this example! Click the blue pencil icon in the upper right to edit this page.*
+This is a test
 
 [![Try it out in Codenvy](https://tomitribe.github.io/codenvy/tryitout.svg)](https://codenvy.com/f?id=9er0fn1kh832sa35)
 
